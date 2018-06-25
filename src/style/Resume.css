@@ -1,0 +1,27 @@
+.resumeContainer{
+    position: absolute;
+    width: 600px;
+    left: 25%;
+    top: 8%;
+}
+.linkContainer{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+.link{
+    align-self: flex-start;
+    z-index: 1;
+    max-width: 50%;
+}
+.backLink{
+    border-style: solid;
+    border-color: black;
+    width:5%;
+    text-decoration: none;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    font-size: 25;
+    font-family: 'Press Start 2P', cursive;
+}

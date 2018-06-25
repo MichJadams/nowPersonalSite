@@ -1,0 +1,22 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_10">
+   <rect transform="matrix(1.34022, -0.391056, 0.375832, 1.39451, -102.284, 4.28075)" id="svg_1" height="49.241996" width="119.809734" y="184.803017" x="134.694165" stroke-width="1.5" stroke="#000" fill="#fff"/>
+   <rect transform="matrix(1.34022, -0.391057, 0.375833, 1.39451, -86.4234, 2.33622)" id="svg_2" height="55.289153" width="119.809734" y="139.690557" x="135.510555" stroke-width="1.5" stroke="#000" fill="#fff"/>
+   <rect transform="matrix(1.34022, -0.391057, 0.375833, 1.39451, -84.9111, 0.997615)" id="svg_3" height="10.794137" width="38.40481" y="157.526762" x="173.396634" stroke-width="1.5" stroke="#000" fill="#fff"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="211.379869" x2="147.891922" y1="143.309739" x1="146.500001" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_7" y2="279.45" x2="168.770737" y1="221.517974" x1="168.770737" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <line stroke-linecap="null" stroke-linejoin="null" id="svg_8" y2="231.656078" x2="327.449726" y1="172.275752" x1="327.449726" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+   <text transform="matrix(1.39192, 0, 0, 1.4483, -64.4524, -102.216)" xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="24" id="svg_9" y="227.526544" x="218.55485" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Vote Block</text>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,28 @@
+
+.ContactPageContainer{
+    padding: 1%;
+}
+.ContactContainer{
+    display:flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh; 
+    width: 100vw;
+    flex-direction: column;
+}
+.ContactInfo{
+    align-self: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.backLink{
+    border-style: solid;
+    border-color: black;
+    width:5%;
+    text-decoration: none;
+    margin: 1%;
+    padding: 1%;
+    text-align: center;
+    font-size: 25;
+    font-family: 'Press Start 2P', cursive;
+}

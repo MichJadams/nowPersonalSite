@@ -7,10 +7,16 @@
     "serve": "^5.0.1"
   },
   "dependencies": {
+    "chart.js": "^2.7.2",
+    "npm": "^6.1.0",
     "react": "^15.4.0",
+    "react-chartjs-2": "^2.7.2",
     "react-dom": "^15.4.0",
+    "react-pdf": "^3.0.5",
     "react-router": "^4.0.0",
-    "react-router-dom": "^4.0.0"
+    "react-router-dom": "^4.3.1",
+    "react-transition-group": "^2.3.1",
+    "strava": "0.0.2"
   },
   "scripts": {
     "now-start": "cd build && serve -s ./",

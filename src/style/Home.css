@@ -1,0 +1,57 @@
+.imageContainer{
+    position: absolute;
+    top: 1%;
+    left: 1%;
+    right: 1%;
+    bottom: 1%;
+    z-index: -2;
+}
+.backgroundImage{
+    width: 100%;
+}
+.aboutMeContainer{
+display: flex; 
+align-self: center;
+flex-flow: column;
+justify-content: space-between;
+height: 100vh;
+}
+.aboutMeContainer img{
+    text-align: center;
+    height: 300px;
+}
+
+.aboutMeContent{
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-size: 40px;
+  color: black;
+  font-family: 'Roboto Mono', monospace;
+  margin: 4%
+}
+@keyframes example {
+    0%   {color: red;}
+    25%  {color: yellow;}
+    50%  {color: blue;}
+    75% {color: green;}
+}
+.startLink{
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.9);
+    text-align: center;
+    font-size: 30px;
+    margin: 3%;
+}
+.startBtnBlink{
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.9);
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+    margin: 3%;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
